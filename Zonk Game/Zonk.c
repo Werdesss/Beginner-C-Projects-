@@ -1,4 +1,4 @@
-// YUSUF MERT KÖSEOÐLU	2152072		SECTION 1
+
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
